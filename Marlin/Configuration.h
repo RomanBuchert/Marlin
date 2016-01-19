@@ -187,7 +187,7 @@ Here are some standard links for getting your machine calibrated:
 //#define EXTRUDER_WATTS (12.0*12.0/6.7) //  P=I^2/R
 //#define BED_WATTS (12.0*12.0/1.1)      // P=I^2/R
 #define EXTRUDER_WATTS (30.0)
-#define BED_WATTS (12.0)
+#define BED_WATTS (130.0)
 
 //===========================================================================
 //============================= PID Settings ================================
